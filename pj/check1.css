@@ -1,0 +1,95 @@
+html, body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+body {
+  
+}
+.button a {
+  color: #204156;
+  text-decoration: none;
+  height: 60px;
+  line-height: 60px;
+  text-decoration: none;
+}
+
+.title {
+  text-align: center;
+  font-weight: 200;
+  color: black;
+}
+
+.main {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 2px solid green;
+}
+#main {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  min-height: 568px;
+}
+#main {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  min-height: 568px;
+}
+.mains {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  min-height: 568px;
+}
+.file {
+  margin: 20px;
+}
+
+.file.new {
+  border: 5px solid #fff;
+}
+.vidsize {
+  width: 330px;
+  border: 5px solid #fff;
+}
+.button {
+  border: 2px solid green;
+  height: 125px;
+  margin-bottom: 10px;
+}
+.button li {
+  display: block;
+  margin: 0px;
+  padding: 0 10px;
+  position: relative;
+  margin-top: 30px;
+
+}
+
+ .button ul {
+  display: block;
+  margin: auto;
+}
+.wrapper p {
+  text-align: center;
+}
+#down:hover {
+font-size: 110%;
+}
+p.python {
+  text-align: center;
+}
+#myTab li a:hover{
+background-color: white;
+font-size: 105%;
+}
